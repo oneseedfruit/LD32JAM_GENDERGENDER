@@ -1,6 +1,11 @@
 # Gender Gender
 
-Made with Charlene Andrew (@Chikoness) for Ludum Dare 32, jam entry. Made in less than 10 hours.
+For Ludum Dare 32, jam entry. Made in less than 10 hours.
+
+Art & audio by Charlene Andrew (@Chikoness).
+Code by Randy Tan (@rtanshxn).
+
+
 
 Ludum Dare page: http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=53104
 
